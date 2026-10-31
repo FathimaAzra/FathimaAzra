@@ -22,33 +22,23 @@
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,c" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,c" style="pointer-events: none;" />
 
 ### 🎨 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react" style="pointer-events: none;" />
 
 ### ⚙️ Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" style="pointer-events: none;" />
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" style="pointer-events: none;" />
 
-### 🔧 Tools & Platforms
+### 🔧 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" style="pointer-events: none;" />
 
 ---
 
