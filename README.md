@@ -95,9 +95,19 @@ A freelance gig management platform that connects students with opportunities. I
 
 ## 🤝 Connect With Me
 
+## 🤝 Connect With Me
+
 <p align="center">
-  <a href="https://github.com/FathimaAzra">
-    <img src="https://img.shields.io/badge/GitHub-FathimaAzra-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/FathimaAzra" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="[YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/fathima-azra-905058375?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:fathimaazra710@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
