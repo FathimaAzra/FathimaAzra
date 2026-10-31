@@ -68,23 +68,6 @@ A freelance gig management platform that connects students with opportunities. I
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FathimaAzra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimaAzra&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FathimaAzra&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🐍 Contribution Animation
 
 <p align="center">
@@ -95,14 +78,12 @@ A freelance gig management platform that connects students with opportunities. I
 
 ## 🤝 Connect With Me
 
-## 🤝 Connect With Me
-
 <p align="center">
   <a href="https://github.com/FathimaAzra" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="[YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/fathima-azra-905058375?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
+  <a href="https://www.linkedin.com/in/fathima-azra-905058375" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
