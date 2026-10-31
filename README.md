@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Fathima Azra!
 
-### 💻 MCA Student | Aspiring Software Developer | Tech Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MCA+Student+%F0%9F%8E%93;Aspiring+Software+Developer+%F0%9F%92%BB;Full+Stack+Web+Development+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
-Welcome to my GitHub profile! I'm a postgraduate computer application student passionate about technology, programming, and building real-world applications.
-
-I enjoy exploring new technologies, solving problems, and turning ideas into practical projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FathimaAzra&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
@@ -21,45 +23,48 @@ I enjoy exploring new technologies, solving problems, and turning ideas into pra
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,c" />
+</p>
 
-### Frontend Development
+### 🎨 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
-### Backend Development
+### ⚙️ Backend Development
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+</p>
 
-### Databases
+### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
 
-### Tools & Platforms
+### 🔧 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 CodeHabit
+
 An intelligent coding practice platform that analyzes student coding attempts, identifies common programming mistakes, and helps students improve their coding skills.
 
 **Tech Stack:** Python, FastAPI, React.js, Machine Learning, SQLite
 
 ### 💼 GigBoard
+
 A freelance gig management platform that connects students with opportunities. It includes gig posting, application management, student profiles, and admin functionalities.
 
 **Tech Stack:** React.js, Node.js, Express.js, MySQL
@@ -69,8 +74,8 @@ A freelance gig management platform that connects students with opportunities. I
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FathimaAzra&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimaAzra&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FathimaAzra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimaAzra&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -83,9 +88,17 @@ A freelance gig management platform that connects students with opportunities. I
 
 ---
 
+## 🐍 Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FathimaAzra/FathimaAzra/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/FathimaAzra">
     <img src="https://img.shields.io/badge/GitHub-FathimaAzra-181717?style=for-the-badge&logo=github" />
   </a>
@@ -93,10 +106,10 @@ A freelance gig management platform that connects students with opportunities. I
 
 ---
 
-## ✨ A Little About My Journey
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Dream+%F0%9F%92%AD;Learn+%F0%9F%93%9A;Build+%F0%9F%9A%80;Repeat+%E2%9C%A8" alt="Dream Learn Build Repeat" />
+</p>
 
-I believe that every project is an opportunity to learn something new. I'm continuously working on improving my technical knowledge, exploring different technologies, and developing solutions to real-world problems.
-
-**"Dream. Learn. Build. Repeat."** 🚀
-
-Thanks for visiting my profile! Feel free to explore my repositories.
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
